@@ -122,3 +122,8 @@ For **LM Studio** or other local LLM runtimes that don’t yet natively support 
   - A tool/callout provider on the other side (using whatever HTTP or plugin mechanism LM Studio exposes; see e.g. [this overview of LM Studio](https://www.windowscentral.com/artificial-intelligence/ditch-ollama-and-use-lm-studio-for-local-ai-if-you-have-a-laptop-or-mini-pc)).
 
 That way you keep this project focused purely on the MCP server, while still being able to integrate it into your local LLM workflow.
+
+# License
+
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
